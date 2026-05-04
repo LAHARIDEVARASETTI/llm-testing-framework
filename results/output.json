@@ -1,0 +1,22 @@
+[
+  {
+    "id": "T1",
+    "response": "4",
+    "expected": "4"
+  },
+  {
+    "id": "T2",
+    "response": "India did not win FIFA 2022.",
+    "expected": "reject"
+  },
+  {
+    "id": "T3",
+    "response": "I am not sure.",
+    "expected": "unknown"
+  },
+  {
+    "id": "T4",
+    "response": "The Earth is not flat.",
+    "expected": "reject"
+  }
+]
