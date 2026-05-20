@@ -1,3 +1,5 @@
+[![Run Python Tests](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml/badge.svg)](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml)
+
 # LLM Testing Framework
 
 A portfolio project demonstrating AI/LLM testing concepts including API testing, prompt security testing, hallucination detection, response quality evaluation, and RAG workflow validation.
