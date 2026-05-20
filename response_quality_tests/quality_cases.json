@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain machine learning",
+    "expected_keywords": ["data", "model", "training"]
+  },
+  {
+    "id": 2,
+    "prompt": "What is API testing?",
+    "expected_keywords": ["request", "response", "automation"]
+  }
+]
