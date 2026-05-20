@@ -1,38 +1,58 @@
-LLM Hallucination Detection Framework
+# LLM Testing Framework
 
-Overview
-This project evaluates LLMs for hallucination, accuracy, and robustness using structured and adversarial test cases.
+A portfolio project demonstrating AI/LLM testing concepts including API testing, prompt security testing, hallucination detection, response quality evaluation, and RAG workflow validation.
 
-Features
+## Project Modules
 
-The
-Evaluates model accuracy
-Supports adversarial and edge-case testing
-Automated evaluation using Python
+### 1. API AI Testing
 
-Sample Test Cases
+Tests API-based LLM interactions using Python and pytest.
 
-What is 2+2? → factual
-India won FIFA 2022 → false premise
-Nobel Prize in AI 2025 → unknown
+### 2. Prompt Security Tests
 
-Tech Stack
+Validates model behavior against prompt injection and jailbreak attempts.
 
-Python
-JSON
+### 3. Hallucination Tests
 
-How to Run
-cd src
-python runner.py
-python evaluator.py
+Checks how the model handles false premises and fabricated facts.
 
-Output
+### 4. Response Quality Tests
 
-Results stored in results/output.json
-Accuracy printed in terminal
+Evaluates whether generated responses are relevant, complete, and meaningful.
 
-Future Improvements
+### 5. RAG Demo
 
-Add real LLM API
-Add dashboard
-Expand dataset
+Simple retrieval-augmented generation prototype for document-based answering.
+
+## Tech Stack
+
+* Python
+* pytest
+* requests
+* JSON
+* Git/GitHub
+
+## How to Run
+
+```bash
+pytest
+```
+
+Run individual modules:
+
+```bash
+python prompt_security_tests/security_runner.py
+python hallucination_tests/hallucination_runner.py
+python response_quality_tests/quality_runner.py
+```
+
+## Learning Goals
+
+This repository demonstrates practical AI QA skills:
+
+* LLM functional testing
+* Prompt injection testing
+* Hallucination testing
+* Output quality validation
+* Automated test execution
+* Git-based project versioning
