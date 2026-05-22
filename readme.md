@@ -1,4 +1,4 @@
-[![Run Python Tests](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml/badge.svg)](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml)
+[![Run Python Tests](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml/badge.svg)](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml)cd 
 
 # LLM Testing Framework
 

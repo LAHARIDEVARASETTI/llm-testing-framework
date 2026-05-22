@@ -1,0 +1,10 @@
+[
+    {
+        "prompt": "What is AI?",
+        "expected_keywords": ["machine", "learning", "intelligence"]
+    },
+    {
+        "prompt": "What is Python?",
+        "expected_keywords": ["programming", "language"]
+    }
+]
