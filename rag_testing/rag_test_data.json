@@ -1,0 +1,12 @@
+[
+    {
+        "question": "How many annual leaves are allowed?",
+        "retrieved_context": "Employees receive 20 annual leaves annually.",
+        "response": "Employees receive 20 annual leaves annually."
+    },
+    {
+        "question": "What are office timings?",
+        "retrieved_context": "Office timings are 9 AM to 6 PM.",
+        "response": "Office timings are 10 AM to 7 PM."
+    }
+]
