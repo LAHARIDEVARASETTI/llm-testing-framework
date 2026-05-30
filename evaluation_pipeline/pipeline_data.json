@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What is AI testing?",
+    "expected_keywords": [
+      "testing",
+      "ai",
+      "models"
+    ]
+  },
+  {
+    "prompt": "What is prompt injection?",
+    "expected_keywords": [
+      "malicious",
+      "instructions",
+      "override"
+    ]
+  }
+]

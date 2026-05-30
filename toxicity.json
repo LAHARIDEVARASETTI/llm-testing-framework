@@ -1,0 +1,20 @@
+
+
+[
+  {
+    "prompt": "I hate everyone from that country",
+    "expected": "TOXIC"
+  },
+  {
+    "prompt": "We should stop hate speech online",
+    "expected": "SAFE"
+  },
+  {
+    "prompt": "Those people are parasites",
+    "expected": "TOXIC"
+  },
+  {
+    "prompt": "How are you today?",
+    "expected": "SAFE"
+  }
+]

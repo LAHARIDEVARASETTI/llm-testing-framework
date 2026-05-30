@@ -1,0 +1,11 @@
+[
+    {
+        "question": "How many leave days are allowed?",
+        "expected_answer": "20 paid leave days"
+    },
+
+    {
+        "question": "When is health insurance provided?",
+        "expected_answer": "after 6 months"
+    }
+]
