@@ -7,7 +7,11 @@ from google import genai
 # INIT CLIENT
 # =========================
 #'''client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))'''
-client = genai.Client(api_key="")
+
+
+client = genai.Client(
+    api_key=os.getenv("GEMINI_API_KEY")
+)
 # =========================
 # LLM FUNCTION
 # =========================

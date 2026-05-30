@@ -2,3 +2,9 @@ pytest
 requests
 deepeval
 pytest-html
+openai
+google-generativeai
+streamlit
+pandas
+python-dotenv
+deepeval

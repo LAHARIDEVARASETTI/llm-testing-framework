@@ -1,5 +1,5 @@
 from openai import OpenAI
-
+import os
 from config.settings import OPENAI_API_KEY
 
 client = OpenAI(
@@ -9,7 +9,8 @@ client = OpenAI(
 def generate_response(prompt):
 
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        MODEL_NAME = os.getenv("OPENAI_MODEL"),
+        
 
         messages=[
             {

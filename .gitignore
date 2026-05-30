@@ -4,3 +4,36 @@ __pycache__/
 .pytest_cache/
 reports/
 htmlcov/
+reports/
+outputs/
+*.json
+.tmp
+*.pyc
+*.pyo
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+.deepeval/
+.env
+reports/report.html
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# DeepEval
+.deepeval/
+
+# Reports
+reports/report.html
+
+# OS
+.DS_Store
+Thumbs.db

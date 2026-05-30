@@ -4,7 +4,12 @@ from models.gemini_model import generate_response as gemini_response
 
 from models.openai_model import generate_response as openai_response
 
-DEFAULT_MODEL = "mock"
+import os
+
+DEFAULT_MODEL = os.getenv(
+    "DEFAULT_MODEL",
+    "mock"
+)
 
 def get_model_response(prompt):
 
