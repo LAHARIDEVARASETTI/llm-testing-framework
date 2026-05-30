@@ -1,0 +1,12 @@
+## Features
+
+- Automated LLM evaluation
+- Hallucination detection
+- Toxicity testing
+- Bias analysis
+- Prompt injection testing
+- RAG validation
+- Regression testing
+- GitHub Actions CI/CD
+- Streamlit dashboard
+- Multi-model support (OpenAI/Gemini)

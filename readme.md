@@ -1,4 +1,10 @@
 [![Run Python Tests](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml/badge.svg)](https://github.com/LAHARIDEVARASETTI/llm-testing-framework/actions/workflows/python-tests.yml)cd 
+# LLM Testing Framework
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pytest](https://img.shields.io/badge/Testing-Pytest-green)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-orange)
+![AI Testing](https://img.shields.io/badge/Domain-AI_Testing-purple)
 
 # AI Testing & QA Automation Framework
 

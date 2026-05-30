@@ -1,0 +1,16 @@
+## Architecture
+
+User Prompt
+      │
+      ▼
+ Evaluation Pipeline
+      │
+      ├── Hallucination Testing
+      ├── Toxicity Testing
+      ├── Bias Testing
+      ├── Prompt Security Testing
+      ├── Response Quality Testing
+      └── RAG Testing
+              │
+              ▼
+        Report Generation

@@ -8,3 +8,10 @@ streamlit
 pandas
 python-dotenv
 deepeval
+
+LLM Testing Framework | Python, Pytest, DeepEval, GitHub Actions
+
+• Developed an end-to-end AI testing framework for evaluating LLM responses across hallucination, toxicity, bias, prompt security, regression, and RAG testing scenarios.
+• Integrated OpenAI/Gemini model support with automated evaluation pipelines.
+• Implemented CI/CD using GitHub Actions for continuous validation.
+• Built reporting and dashboard capabilities for test result visualization.
